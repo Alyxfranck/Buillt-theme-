@@ -1,17 +1,17 @@
 export const footerSocials = [
   {
     name: 'Twitter',
-    url: 'https://twitter.com/jaydanurwin',
+    url: 'https://twitter.com/',
     icon: "mdi:twitter",
   },
   {
     name: 'Youtube',
-    url: 'https://youtube.com/@jaydanurwin',
+    url: 'https://youtube.com/',
     icon: "mdi:youtube",
   },
   {
     name: 'Github',
-    url: 'https://github.com/jaydanurwin',
+    url: 'https://github.com/Alyxfranck',
     icon: "mdi:github",
   },
   {
@@ -70,10 +70,6 @@ export const footerLists = [
       {
         title: 'Theme Setup',
         slug: '/theme/theme-setup',
-      },
-      {
-        title: 'Customizing Odyssey',
-        slug: '/theme/customizing-odyssey',
       }
 		],
 	},
